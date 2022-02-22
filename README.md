@@ -4,4 +4,4 @@ Repository created to test merge and rebase
 ## Test 1
 ### Test 1.1
 
-var test += 40
+var test && 50
